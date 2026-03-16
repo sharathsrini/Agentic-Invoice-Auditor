@@ -1,1 +1,1 @@
-# Agentic-Invoice-Auditor
+# AI-Invoice-Agentic-RAG
